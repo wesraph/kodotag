@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="576" startPos="0" endPos="0" selMode="0" lang="Normal Texte" encoding="-1" filename="C:\Program Files (x86)\Notepad++\change.log" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="360" startPos="333" endPos="333" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\main.py" />
+            <File firstVisibleLine="21" xOffset="0" scrollWidth="819" startPos="1258" endPos="1258" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\Reseau.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2384" startPos="748" endPos="748" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\Ressources.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="594" startPos="449" endPos="449" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\SalleAttente.py" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

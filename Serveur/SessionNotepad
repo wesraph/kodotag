@@ -1,0 +1,16 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="378" startPos="158" endPos="158" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\main.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="549" startPos="219" endPos="219" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\Reception.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1224" startPos="814" endPos="814" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\Envoi.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="864" startPos="299" endPos="299" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Thibaud\Camera.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="765" startPos="568" endPos="568" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Thibaud\class_moteuranimation.py" />
+        </mainView>
+        <subView activeIndex="2">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="594" startPos="390" endPos="390" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\SalleAttente.py" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="837" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\Ressources.py" />
+            <File firstVisibleLine="6" xOffset="0" scrollWidth="888" startPos="2124" endPos="2124" selMode="0" lang="Python" encoding="-1" filename="Z:\home\xenix\Dropbox\ISN-Code\Raph\Reseau.py" />
+        </subView>
+    </Session>
+</NotepadPlus>

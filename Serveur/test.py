@@ -1,0 +1,2 @@
+def TesterFichier():
+	print("Salut")
